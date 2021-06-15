@@ -1,0 +1,28 @@
+{
+  "name": "gamerayano",
+  "version": "1.0.0",
+  "description": "EB Discord Guild Only",
+  "main": "index.js",
+  "scripts": {
+    "test": "clear && nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SJ-Bots/GamerAyano.git"
+  },
+  "keywords": [
+    "GamerAyano",
+    "Discord.js",
+    "Bot",
+    "Discord",
+    "Bot",
+    "SJ",
+    "Bots"
+  ],
+  "author": "結城あやの",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/SJ-Bots/GamerAyano/issues"
+  },
+  "homepage": "https://github.com/SJ-Bots/GamerAyano#readme"
+}
